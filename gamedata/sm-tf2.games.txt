@@ -134,8 +134,8 @@
 				"windows64"	"\x48\x89\x5C\x24\x08\x48\x89\x74\x24\x10\x57\x48\x83\xEC\x20\x48\x8B\xFA\x48\x8B\xF1\x48\x85\xD2\x0F\x84\x2A\x2A\x2A\x2A\x45\x33\xC0"
 				
 				// Recent updates altered where the teleport check was called in Linux systems.
-				"linux"		"@_ZN17CObjectTeleporter21PlayerCanBeTeleportedEP9CTFPlayer.part.0"
-				"linux64"	"@_ZN17CObjectTeleporter21PlayerCanBeTeleportedEP9CTFPlayer.part.0"
+				"linux"		"@_ZN17CObjectTeleporter21PlayerCanBeTeleportedEP9CTFPlayer_part_0"
+				"linux64"	"@_ZN17CObjectTeleporter21PlayerCanBeTeleportedEP9CTFPlayer_part_0"
 			}
 			
 			// Obsolete
